@@ -1,5 +1,5 @@
 #This is an adventure/role-playing game for linux.
-#Be sure to comment and leave pull requests!!!
+#Be sure to leave pull requests!!!
 var = 1
 import os
 import sys
